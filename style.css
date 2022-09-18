@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(109, 7, 7);
+    color: white;
+    font-weight: 300;
+}
+
+div {
+    font-size: larger;
+    text-align: center;
+    background-image: url(images/1.jpg); filter: url(images/1.jpg) opacity(0.4) drop-shadow(0 0 0 red);
+}
+
+.firstp {
+    font-size: larger;
+    text-align: center;
+    color: bisque;
+}
+
+img {
+    float: center ;
+    width: 82%;
+}
+.tab{
+    font-size: larger;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+h2, h1 {
+    text-align: center;
+}
+p {
+    text-align: center;
+    font-size: larger;
+}
+
